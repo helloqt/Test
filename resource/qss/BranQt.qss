@@ -1,0 +1,32 @@
+*{
+	color : white;
+	border: 0px;
+}
+
+.QWidget
+{
+	background-color: rgb( 33, 33, 33);
+}
+
+QPushButton#button_back
+{	
+	background: transparent;
+	width     : 95px;	
+}
+
+/* QCheckBox 选择框样式 */
+QCheckBox::indicator
+{
+	width : 80px;                                                               /* 宽度 */
+	height: 80px;                                                               /* 高度 */
+}
+
+QCheckBox::indicator::unchecked 
+{
+	image: url(:/resource/images/optionPage/checkboxSwitchOFF.png);             /* 未选中时 设置的背景图片 */
+}
+
+QCheckBox::indicator::checked 
+{
+	image: url(:/resource/images/optionPage/checkboxSwitchON.png);              /* 选中时 设置的背景图片 */
+};

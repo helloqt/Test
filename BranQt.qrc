@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/images/optionPage/backgroudContent.png</file>
+        <file>resource/images/optionPage/backgroudTop.png</file>
+        <file>resource/images/optionPage/badge.png</file>
+        <file>resource/images/optionPage/buttonBack.png</file>
+        <file>resource/images/optionPage/buttonBorder.png</file>
+        <file>resource/images/optionPage/buttonEnter.png</file>
+        <file>resource/images/optionPage/checkboxSwitchOFF.png</file>
+        <file>resource/images/optionPage/checkboxSwitchON.png</file>
+        <file>resource/images/optionPage/checked.png</file>
+        <file>resource/images/optionPage/frameBorder.png</file>
+        <file>resource/images/optionPage/logoAPP.png</file>
+        <file>resource/images/optionPage/logoBrightness.png</file>
+        <file>resource/images/optionPage/logoDateTime.png</file>
+        <file>resource/images/optionPage/logoLanguage.png</file>
+        <file>resource/images/optionPage/logoLocation.png</file>
+        <file>resource/images/optionPage/logoNightMode.png</file>
+        <file>resource/images/optionPage/logoReset.png</file>
+        <file>resource/images/optionPage/logoVersion.png</file>
+        <file>resource/images/optionPage/logoWifi.png</file>
+        <file>resource/images/optionPage/scroll.png</file>
+        <file>resource/images/optionPage/signSet.png</file>
+        <file>resource/images/optionPage/signSetUp.png</file>
+        <file>resource/images/optionPage/tab.png</file>
+        <file>resource/images/optionPage/resetFactory/buttonCancelBlack.png</file>
+        <file>resource/images/optionPage/resetFactory/buttonConfirmRed.png</file>
+        <file>resource/images/optionPage/resetFactory/buttonConsultRed.png</file>
+        <file>resource/images/optionPage/resetFactory/iconRestoreBlack.png</file>
+        <file>resource/images/optionPage/resetFactory/labelBackgroundWhite.png</file>
+        <file>resource/images/optionPage/setTime/signDateTime.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 Blank_h.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 Blank_n.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 carry out_h.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 carry out_n.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 Delete Icon_h.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 Keyboard Enlarge.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 Keyboard Press.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 shift Icon_h.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 shift Icon_n.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 shift_h.png</file>
+        <file>resource/images/optionPage/setWifi/3.1 3 shift_n.png</file>
+        <file>resource/images/optionPage/setWifi/3.13 Delete Icon_n.png</file>
+        <file>resource/images/optionPage/setWifi/enter.png</file>
+        <file>resource/images/optionPage/setWifi/failure.png</file>
+        <file>resource/images/optionPage/setWifi/Loading1.png</file>
+        <file>resource/images/optionPage/setWifi/Loading2.png</file>
+        <file>resource/images/optionPage/setWifi/lock.png</file>
+        <file>resource/images/optionPage/setWifi/Select background.png</file>
+        <file>resource/images/optionPage/setWifi/success.png</file>
+        <file>resource/images/optionPage/setWifi/White Button_h.png</file>
+        <file>resource/images/optionPage/setWifi/White Button_n.png</file>
+        <file>resource/images/optionPage/setWifi/wifi.png</file>
+        <file>resource/images/optionPage/adjustLight/iconLightlessWhite.png</file>
+        <file>resource/images/optionPage/adjustLight/labelBackgroundShorter.png</file>
+        <file>resource/images/optionPage/adjustLight/labelBackgroundTaller.png</file>
+        <file>resource/images/optionPage/adjustLight/labelLightIncrease.png</file>
+        <file>resource/images/optionPage/adjustLight/labelLightlessBlack.png</file>
+        <file>resource/images/optionPage/adjustLight/labelLightTitle.png</file>
+        <file>resource/qss/BranQt.qss</file>
+        <file>resource/images/optionPage/adjustLight/sliderBackground.png</file>
+        <file>resource/images/optionPage/adjustLight/sliderFront.png</file>
+        <file>resource/images/optionPage/adjustLight/sliderHandle.png</file>
+    </qresource>
+</RCC>
